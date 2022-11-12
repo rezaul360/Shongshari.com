@@ -1,0 +1,68 @@
+.contact-us{
+    background: #F8F8FF;
+    color: rgb(20, 19, 19);
+    margin-top: 100px;
+}
+.contact-head{
+    text-align: center;
+}
+.contact-icon-box{
+    height: 60px;
+    width: 60px;
+    background:#379cf6;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-icon{
+    color: #fff;
+    font-size: 20px;
+}
+
+.social-icon-box{
+    height: 35px;
+    width: 35px;
+    border: 2px solid #379cf6;
+    border-radius: 50%;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 7px; 
+}
+
+.social-icon{
+    color: #379cf6;
+    font-size: 20px;  
+}
+
+.social-icon-box:hover{
+    background: #379cf6; 
+    transition: .7s;     
+}
+
+.social-icon-box:hover i{
+    color: white;   
+    transition: .7s;
+}
+
+.my-btn{
+    background: #512da8 !important;
+    padding: 20px 10px !important;
+    color: #ede7f6 !important;
+}
+
+
+@media only screen and (max-width: 900px) {
+    .map-img{
+        height: 400px !important;
+    }
+  }
+
+
+
+.about-dec{
+    color: #3F525A;
+}

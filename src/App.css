@@ -1,0 +1,30 @@
+@import "./assets/css/all.min.css";
+@import "swiper/css";
+/* @import "swiper/css/autoplay"; */
+
+/* @import "./assets/css/animate.css"; */
+
+@import "./assets/css/main.css";
+@import "./assets/css/flaticon.css";
+
+@import "./assets/css/custom.css";
+
+@import "./assets/css/custom__o.css";
+
+@import "./assets/css/nice-select.css";
+
+@import "./assets/css/odometer.css";
+
+@import "./assets/css/owl.carousel.min.css";
+
+@import "./assets/css/owl.theme.default.min.css";
+
+@import "./assets/css/responsive.css";
+
+@import "./assets/css/xzoom.css";
+
+@import "./assets/css/bootstrap.min.css";
+@import "react-toastify/dist/ReactToastify.css";
+body{
+    background: #F8F8FF;
+}

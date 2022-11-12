@@ -1,0 +1,23 @@
+.container{
+    width: 1140px;
+    padding: 0px 15px;
+    margin: auto;
+  }
+.privacy{
+    background: rgba(228, 18, 114, 1) 100%;
+    padding: 40px;
+}
+.privacy h2{
+    text-align: center;
+    color: #fff;
+}
+.privacy p{
+    color: rgba(255, 255, 255, 0.874);
+}
+.privacy-title{
+    color: #fff;
+    margin-top: 40px;
+}
+.privacy-description{
+    color: rgba(255, 255, 255, 0.874);
+}
